@@ -1,0 +1,32 @@
+{
+  "name": "portfolio",
+  "version": "1.0.2",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tr13ze",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "*",
+    "gulp": "*",
+    "gulp-browserify": "*",
+    "gulp-connect": "*",
+    "gulp-cssmin": "*",
+    "gulp-jshint": "*",
+    "gulp-livereload": "*",
+    "gulp-plumber": "*",
+    "gulp-postcss": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-uglify": "*",
+    "jshint": "*",
+    "opn": "*",
+    "vinyl-buffer": "*",
+    "vinyl-source-stream": "*"
+  },
+  "dependencies": {
+    "three-js": "*"
+  }
+}
