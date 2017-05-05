@@ -4,8 +4,8 @@
 		<contributor>
 			<authoring_tool>CINEMA4D 18.020 COLLADA Exporter</authoring_tool>
 		</contributor>
-		<created>2017-05-05T21:26:31Z</created>
-		<modified>2017-05-05T21:26:31Z</modified>
+		<created>2017-05-05T21:28:38Z</created>
+		<modified>2017-05-05T21:28:38Z</modified>
 		<unit meter="0.01" name="centimeter"/>
 		<up_axis>Y_UP</up_axis>
 	</asset>
@@ -76,9 +76,9 @@
 		<visual_scene id="ID3">
 			<node id="ID4" name="Plane005">
 				<translate sid="translate">1.87765e-61 -2.91535e-21 -1.35299e-44</translate>
-				<rotate sid="rotateY">0 1 0 52.2406</rotate>
-				<rotate sid="rotateX">1 0 0 9.29243</rotate>
-				<rotate sid="rotateZ">0 0 1 -239.965</rotate>
+				<rotate sid="rotateY">0 1 0 4.52293</rotate>
+				<rotate sid="rotateX">1 0 0 17.8013</rotate>
+				<rotate sid="rotateZ">0 0 1 -248.536</rotate>
 				<scale sid="scale">1 1 1</scale>
 				<instance_geometry url="#ID5">
 					<bind_material>
