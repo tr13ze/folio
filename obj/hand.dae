@@ -4,8 +4,8 @@
 		<contributor>
 			<authoring_tool>CINEMA4D 18.020 COLLADA Exporter</authoring_tool>
 		</contributor>
-		<created>2017-05-05T22:52:42Z</created>
-		<modified>2017-05-05T22:52:42Z</modified>
+		<created>2017-05-05T22:56:33Z</created>
+		<modified>2017-05-05T22:56:33Z</modified>
 		<unit meter="0.01" name="centimeter"/>
 		<up_axis>Y_UP</up_axis>
 	</asset>
@@ -57,10 +57,10 @@
 	<library_visual_scenes>
 		<visual_scene id="ID1">
 			<node id="ID2" name="hand.obj">
-				<translate sid="translate">33.1502 28.8153 4.40227</translate>
-				<rotate sid="rotateY">0 1 0 91.7488</rotate>
-				<rotate sid="rotateX">1 0 0 0.609605</rotate>
-				<rotate sid="rotateZ">0 0 1 -0.904004</rotate>
+				<translate sid="translate">31.8784 13.6018 4.15062</translate>
+				<rotate sid="rotateY">0 1 0 323.463</rotate>
+				<rotate sid="rotateX">1 0 0 -2.60353</rotate>
+				<rotate sid="rotateZ">0 0 1 -353.652</rotate>
 				<scale sid="scale">1 1 1</scale>
 				<instance_geometry url="#ID3"/>
 			</node>
